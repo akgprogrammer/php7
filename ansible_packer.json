@@ -11,7 +11,7 @@
     "source_ami": "ami-f8807fee",
     "instance_type": "t2.micro",
     "ssh_username": "ubuntu",
-    "ami_name": "project_demo {{timestamp}}"
+    "ami_name": "ankit_demo {{timestamp}}"
   }],
   "provisioners": [
     {
